@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Javascript, dart**
 
-- 📫 How to reach me **nicckamorim@gmail.com**
+- 📫 How to reach me **kiotoosz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
