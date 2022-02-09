@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lnicxss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lnicxss" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nicolas amorim ribeiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas amorim ribeiro" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/nicolas-amorim-ribeiro-2a873521b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas amorim ribeiro" height="30" width="40" /></a>
 <a href="https://instagram.com/only_nicxs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="only_nicxs" height="30" width="40" /></a>
 <a href="https://discord.gg/Nicxs#0998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Nicxs#0998" height="30" width="40" /></a>
 </p>
